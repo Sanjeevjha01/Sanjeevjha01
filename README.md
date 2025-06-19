@@ -60,9 +60,7 @@
 
 ---
 
-### 🏆 Achievements & Stats
 
-<!-- ...other content... -->
 
 ## 🏆 Achievements & GitHub Stats
 
