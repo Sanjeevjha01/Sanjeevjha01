@@ -48,6 +48,9 @@
   <a href="https://instagram.com/itz.sanjeevv" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="https://www.facebook.com/sanjeevjha01" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%233b5998.svg?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
 </p>
 
 ---
