@@ -54,18 +54,24 @@
 
 ### 🏆 Achievements & Stats
 
+<!-- ...other content... -->
+
+## 🏆 Achievements & GitHub Stats
+
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjeevjha01&theme=algolia" alt="Trophies" /></a>
+  <a href="https://github-profile-trophy.vercel.app/?username=sanjeevjha01">
+    <img src="https://github-profile-trophy.vercel.app/?username=sanjeevjha01&theme=radical&margin-w=10&margin-h=10&row=1&column=5" alt="trophies" />
+  </a>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjeevjha01&show_icons=true&theme=algolia" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjeevjha01&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjeevjha01&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevjha01&layout=compact&theme=radical&hide=ruby,kotlin" alt="langs" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjeevjha01&theme=algolia" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjeevjha01&theme=radical" alt="streak" />
 </p>
 
----
+<!-- ...other content... -->
 
 <details>
 <summary>📝 <b>More About Me</b></summary>
