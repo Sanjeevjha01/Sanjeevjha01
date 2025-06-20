@@ -7,6 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=sanjeevjha01&label=Profile%20views&color=1F75FE&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/Front%20End-%231572B6.svg?style=flat&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Back%20End-%231572B6.svg?style=flat&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/India-%23FF9933.svg?style=flat&logo=flag&logoColor=white" />
 </p>
 
