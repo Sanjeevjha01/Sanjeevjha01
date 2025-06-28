@@ -14,7 +14,7 @@
 ---
 
 ### 🚀 About Me
-- **React Native & Front-End Developer** from India 🇮🇳
+- **React Native & Web Developer** from India 🇮🇳
 - 🔭 Currently building: **Wine App** – a React Native app for wine reviews & purchases
 - 🌱 Learning: Node.js, Express.js, MongoDB, Jest
 - 🤝 Open to collaborations on React Native, dashboards, MERN stack
