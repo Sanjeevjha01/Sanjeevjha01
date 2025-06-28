@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=1F75FE&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sanjeev+Kumar+Jha!;React+Native+%26+Front-End+Developer;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=1F75FE&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sanjeev+Kumar+Jha!;React+Native+%26+Web+Developer;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
 
 <p align="center">
