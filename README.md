@@ -82,6 +82,6 @@
 <summary>📝 <b>More About Me</b></summary>
 
 - 💬 Ask me about: React Native, Redux, API integration, Firebase, or frontend development
-- 👨‍💻 Portfolio: [github.com/Sanjeevjha01](https://github.com/Sanjeevjha01)
+- 👨‍💻 Portfolio: [sanjeevjha.vercel.app/](https://sanjeevjha.vercel.app/)
 - 🏆 Always open to connecting and learning from the community!
 </details>
