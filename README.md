@@ -15,7 +15,7 @@
 
 ### 🚀 About Me
 - **React Native & Web Developer** from India 🇮🇳
-- 🔭 Currently building: **Wine App** – a React Native app for wine reviews & purchases
+- 🔭 Currently working as an intern @DreamViewer Infotech
 - 🌱 Learning: Node.js, Express.js, MongoDB, Jest
 - 🤝 Open to collaborations on React Native, dashboards, MERN stack
 - 💡 Looking for help with backend performance optimization
