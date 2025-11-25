@@ -15,7 +15,8 @@
 
 ### 🚀 About Me
 - **React Native & Web Developer** from India 🇮🇳
-- 🔭 Currently working as an intern @DreamViewer Infotech
+- 🔭 Currently open to work.
+- 🔭 Intern @DreamViewer Infotech
 - 🌱 Learning: Node.js, Express.js, MongoDB, Jest
 - 🤝 Open to collaborations on React Native, dashboards, MERN stack
 - 💡 Looking for help with backend performance optimization
