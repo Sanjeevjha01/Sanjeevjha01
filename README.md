@@ -63,20 +63,6 @@
 ---
 
 
-
-## 🏆 Achievements & GitHub Stats
-
-<p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=sanjeevjha01">
-    <img src="https://github-profile-trophy.vercel.app/?username=sanjeevjha01&theme=radical&margin-w=10&margin-h=10&row=1&column=5" alt="trophies" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjeevjha01&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevjha01&layout=compact&theme=radical&hide=ruby,kotlin" alt="langs" />
-</p>
-
-
 <!-- ...other content... -->
 
 <details>
