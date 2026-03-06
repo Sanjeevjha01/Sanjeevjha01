@@ -15,7 +15,7 @@
 
 ### 🚀 About Me
 - **React Native & Web Developer** from India 🇮🇳
-- 🔭 Currently open to work.
+- 🔭 Working @Usha Financial Services Ltd.
 - 🔭 Intern @DreamViewer Infotech
 - 🌱 Learning: Node.js, Express.js, MongoDB, Jest
 - 🤝 Open to collaborations on React Native, dashboards, MERN stack
